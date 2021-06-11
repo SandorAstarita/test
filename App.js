@@ -4,8 +4,6 @@ import {
   View,
 } from 'react-native';
 
-import {Colors} from 'react-native/Libraries/NewAppScreen';
-
 const App = () => {
   const getError = e => {
     console.log(e);
