@@ -1,13 +1,7 @@
 import React from 'react';
 import Video from 'react-native-video';
 import {
-  SafeAreaView,
-  ScrollView,
-  StatusBar,
-  StyleSheet,
-  useColorScheme,
   View,
-  Dimensions,
 } from 'react-native';
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
